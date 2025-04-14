@@ -7,7 +7,7 @@ def google_search_summary(query):
     params = {
         "engine": "google",
         "q": query,
-        "api_key": "b297dd0a47ff4f7f0069ac99c611ede8e22b4b65fbbdff8de0d497f945b176d3"
+        "api_key": ""
     }
 
     try:
